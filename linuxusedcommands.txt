@@ -1,0 +1,46 @@
+generally this are the commands that i use normally in linux terminal explained as i understand them
+pwd -displays working directory
+cd -move across directories
+ls-lists all files in a directory
+rm-removes directories or files
+mk-creates adirctory
+sudo-ipgrades priveledges to root
+ping-checks if network is up and also used to resolve a domain name IP address
+chmod-changes files permissions
+kill-closes a program or a service
+grep-helps to serch for a file or command in the system
+wget-network downloader
+clear-(ctrl-l)---clears the screen
+mv-moves a file to desired location or used to rename a file 
+cp-copies a file to desired location 
+top-displayes linux processes
+touch-creates or fereshes all files
+locate-changes files timestamps
+find-searches files & dirctories based on hierachies
+man-displayes  commands reference pages
+cat-creates or displayes file contents
+less-dislayes only the essential details on a file
+apt-get-installs updates or removs software or applications
+ps-shows current processes
+whoami-show the logged in user
+echo-repeats user input
+zip-archives or compresses files
+unzip-extracts or decompresses zipped files
+uname-shows the os running on the device
+diff-compares files line by line
+tail-displays last part of a file
+ssh-open remote login client
+traceroute-shows the direction of traffic showing the hops
+su-switches logged in user to another user
+history-displayes all command that user has run
+nano-creates or displays files
+vim-creates  or displays files
+ifconfig-shows all active user interfaces
+passwd-changes devices password
+reboot,shutdown,suspend
+init 0-instantly stops all services and shutsdown computer
+init 6-reboots computer
+help&-h-displays reference page with help
+timadatectl-displays time &date
+adduser-creates a new user on the device
+
